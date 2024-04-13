@@ -1,0 +1,12 @@
+faiss-cpu~=1.8.0
+numpy~=1.26.4
+pandas~=2.2.1
+usearch~=2.9.2
+datasets~=2.18.0
+fastapi~=0.110.0
+pydantic~=2.6.4
+python-dotenv~=1.0.1
+mixedbread-ai~=2.2.3
+huggingface-hub~=0.21.4
+uvicorn~=0.29.0
+tqdm~=4.66.4
